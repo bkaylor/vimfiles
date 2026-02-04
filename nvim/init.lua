@@ -49,3 +49,5 @@ vim.lsp.enable('pyright')
 vim.lsp.enable('clangd')
 
 vim.opt.termguicolors=true
+
+vim.cmd('colorscheme whitebox')
